@@ -1,4 +1,4 @@
-# Radiomaster TX16S enable R9M access <br>
+# Radiomaster TX16S enable R9M access protocol  <br>
 Enable in Radiomaster TX16S - R9M ACCESS <br>
 Steps:<br>
 1. Flash modif FW https://github.com/cvetaevvitaliy/Radiomaster_TX16S/raw/master/Firmware/Radiomaster_TX16S_R9M_ACCESS.bin<br>
